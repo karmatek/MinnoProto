@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<annotationOptions>
+    <genre category="Cancer">
+        <type>"Passive"
+        </type>
+        <type>"Aggressive"
+        </type>    
+    </genre>
+
+    <genre category="Tumor">
+          <type>"Passive"
+           
+        </type>
+        <type>"Aggressive"
+            
+        </type>    
+    </genre>
+</annotationOptions>
